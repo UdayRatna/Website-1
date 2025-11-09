@@ -1,1 +1,11 @@
+# Ignore environment variables
+backEnd/.env
+
+# Ignore node modules
 node_modules/
+backEnd/node_modules/
+
+# Optional recommended ignores
+.env
+dist/
+logs/
